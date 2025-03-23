@@ -1,20 +1,23 @@
-# loginpage
+
+# Basic Login Page (HTML & CSS)
+
 A simple and responsive login page built using HTML and CSS. Perfect for beginners learning front-end development!
 
-🌟 Features
-Clean and minimal design
+## Features
 
-Fully responsive layout
+-> Clean and minimal design
 
-Basic username & password input fields
+-> Fully responsive layout
 
-Simple "Login" button
-🚀 How to Use
-Clone or download the repository.
+-> Basic username & password input fields
 
-Open index.html in any browser.
+-> Simple "Login" button
 
-📌 Technologies Used
-HTML5
+## How to use
+-> Clone or download the repository.
 
-CSS3
+->Open index.html in any browser.
+## Technoligies Used
+-> HTML
+
+-> CSS
